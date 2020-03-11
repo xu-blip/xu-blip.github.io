@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xu-blip.github.io/ </id>
     <title>Gridea/xu-blip.github.io/ </title>
-    <updated>2020-03-11T03:17:46.391Z</updated>
+    <updated>2020-03-11T06:38:42.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xu-blip.github.io/ "/>
     <link rel="self" href="https://xu-blip.github.io/ /atom.xml"/>
@@ -17,10 +17,10 @@
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong></p>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。用来记录生活、心情、知识、笔记、创意... ... 你好，用户</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong></p>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。用来记录生活、心情、知识、笔记、创意... ... 你好，用户</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>
